@@ -1,0 +1,17 @@
+{
+  "name": "UploadFile",
+  "version": "1.0.0",
+  "description": "Module pour téléverser un fichier sur un server Node depuis une application Angular ~5",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofiane Hadjadj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "multer": "^1.3.0",
+    "nodemon": "^1.17.5"
+  }
+}
